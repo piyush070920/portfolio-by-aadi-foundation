@@ -28,11 +28,11 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "piyush.jb34@gmail.com",
   gitHub: "https://github.com/piyush070920",
-  instagram: "#",
+  instagram: "",
   linkedIn: "https://www.linkedin.com/in/piyush16925",
-  medium: "#",
-  twitter: "#",
-  youTube: "#",
+  medium: "",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
