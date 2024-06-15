@@ -118,4 +118,9 @@ img.socialIcon {
   width: 30px;
 }
 
+#footer a:hover {
+  border-radius: 8px;
+  box-shadow: 0 0 4px 4px #ffffffa2;
+}
+
 /*# sourceMappingURL=index.4d663569.css.map */
