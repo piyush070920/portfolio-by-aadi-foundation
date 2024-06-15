@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Piyush",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  email: "piyush.jb34@gmail.com",
+  gitHub: "https://github.com/piyush070920",
+  instagram: "#",
+  linkedIn: "https://www.linkedin.com/in/piyush16925",
+  medium: "#",
+  twitter: "#",
+  youTube: "#",
 };
 
 const primaryColor = "#4E567E";
